@@ -7,3 +7,4 @@
 #lambda x: 'value' if x<15 else (if x<=25 else 'elderly')
 
 # 만약 조건절이 너무 많다면 lambda x: def(x) 도 가능
+
